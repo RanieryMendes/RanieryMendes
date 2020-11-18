@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Raniery Cover](RanieryMendes/GithubPage.png)
+![](GithubPage.png)
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanieryMendes&hide=html&layout=compact&theme=buefy" />  
 <!--

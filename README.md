@@ -1,10 +1,11 @@
-### Hi there 👋
+
 ![](GithubPage.png)
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanieryMendes&hide=html&layout=compact&theme=buefy" />  
 <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=RanieryMendes&theme=buefy"/>  
-  <a href="https://www.linkedin.com/in/raniery-mendes"><img src="https://github.com/RanieryMendes/RanieryMendes/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/seu_usuário)  
+  <a href="https://www.linkedin.com/in/raniery-mendes"> <img src="https://github.com/RanieryMendes/RanieryMendes/blob/main/linkedin.png" width="100" height="100"></img></a>  
 
+😄 Pronouns: he/him/his
 <!--
 **RanieryMendes/RanieryMendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: he/him/his
+- 
 - ⚡ Fun fact:
 -->

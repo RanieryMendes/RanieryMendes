@@ -3,7 +3,7 @@
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanieryMendes&hide=html&layout=compact&theme=buefy" />  
 <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=RanieryMendes&theme=buefy"/>  
-  <a href="https://www.linkedin.com/in/raniery-mendes"> <img src="https://github.com/RanieryMendes/RanieryMendes/blob/main/linkedin.png" width="150" height="150"></img></a>  
+  <a href="https://www.linkedin.com/in/raniery-mendes"> <img src="https://github.com/RanieryMendes/RanieryMendes/blob/main/linkedin.png" width="150" height="150"></img></a>.   
   
   
 😄 Pronouns: he/him/his

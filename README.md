@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/raniery-mendes"> <img src="https://github.com/RanieryMendes/RanieryMendes/blob/main/linkedin.png" width="20" height="20"></img> Raniery Mendes</a> 
   
   
- <a>  <img src="https://github.com/RanieryMendes/RanieryMendes/blob/main/email.png" width="20" height="20"/> mendrc18@wfu.edu</a>
+ <a>   <img src="https://github.com/RanieryMendes/RanieryMendes/blob/main/email.png" width="20" height="20"/> mendrc18@wfu.edu</a>
  
  
   

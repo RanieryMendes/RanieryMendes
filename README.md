@@ -2,7 +2,9 @@
 ![](GithubPage.png)
 
 <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanieryMendes&hide=html&layout=compact&theme=buefy" /></td>  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanieryMendes&layout=compact)
+
+<td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanieryMendes&layout=compact"/>  </td>
+
 
 <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=RanieryMendes&theme=buefy"/>  </td>
 

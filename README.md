@@ -1,41 +1,39 @@
 
-![](GithubPage.png)
 
-<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanieryMendes&hide=html&layout=compact&theme=buefy" /></td>  
+# Raniery Mendes
 
-<td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/?username=RanieryMendes&theme=buefy"/>  </td>
+![Raniery Mendes](https://www.linkedin.com/in/raniery-mendes/)
 
+## About Me
 
-<p></p>
+I'm a Computer Scientist with a passion for machine learning and data science. I'm proficient in Python, SQL, HTML/CSS, JavaScript, Java, and PyTorch.
 
+## Experience
 
- ### Hi there!
-  
-  
-  
-  📫 How to reach me:
+* Teaching Assistant at Wake Forest University
+* Graduate Research Assistant at Wake Forest University
+* Co-Mentor for the LEAP program
+* Hackathon Director for WakeHacks 2023
 
+## Skills
 
+* Python
+* SQL
+* HTML/CSS
+* JavaScript
+* Java
+* PyTorch
 
-  <a href="https://www.linkedin.com/in/raniery-mendes"> <img src="https://github.com/RanieryMendes/RanieryMendes/blob/main/linkedin.png" width="20" height="20"></img> Raniery Mendes</a> 
-  
-  
- <a>   <img src="https://github.com/RanieryMendes/RanieryMendes/blob/main/email.png" width="20" height="20"/> mendrc18@wfu.edu</a>
- 
- 
-  
-  😄 Pronouns: he/him/his
-<!--
-**RanieryMendes/RanieryMendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+* [Project 1](https://superpokedex.com)
+* [Project 2](https://github.com/RanieryMendes/Stonks-Predictor)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 
-- ⚡ Fun fact:
--->
+## Contact
+
+* Email: ranierymendes@outlook.com
+* LinkedIn: [Raniery Mendes](https://www.linkedin.com/in/raniery-mendes/)
+
+## GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ranierymendes&title=Raniery%20Mendes&icon=shields&color=blue)](https://github.com/anuraghazra/github-readme-stats)
